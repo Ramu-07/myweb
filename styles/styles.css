@@ -65,7 +65,7 @@ body {
   font-family: var(--body-font-family);
   line-height: 1.6;
   color: var(--text-color);
-  background-color:   hsl(270, 86%, 17%);
+  background-color:   hsl(188, 44%, 49%);
   display: none;
 }
 
